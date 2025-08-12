@@ -1,8 +1,8 @@
 # 🎮 CS50 — Pong
 
-**Course:** [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/)
-**Assignment:** Pong
-**Engine / Language:** LÖVE2D (Lua)
+**Course:** [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/)  
+**Assignment:** Pong  
+**Engine / Language:** LÖVE2D (Lua)  
 
 ---
 
