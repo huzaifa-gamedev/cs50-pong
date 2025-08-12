@@ -1,23 +1,35 @@
-# CS50 — Pong
+# 🎮 CS50 — Pong
 
 **Course:** [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/)
 **Assignment:** Pong
-**Engine/Language:** LÖVE2D (Lua)
-**Author:** Muhammad Huzaifa Karim ([huzaifakarim1](https://github.com/huzaifakarim1))
+**Engine / Language:** LÖVE2D (Lua)
+
+---
+
+## 📋 Project Overview
+
+This repository contains my implementation of the **Pong** assignment from CS50's Introduction to Game Development.
+
+---
+
+### What I implemented:
+
+- ✔️ Added a basic AI to control the **right paddle**, which automatically moves to deflect the ball.
+- ✔️ Preserved original paddle controls for the left paddle (W / S keys).
+- ✔️ Kept the core game mechanics intact from the original skeleton code.
+- ✔️ Ensured smooth gameplay using LÖVE2D framework (Lua).
+
+This AI allows single-player mode where the computer plays against you!
+
+---
+
+## 🎬 Gameplay Preview
 
 ![Gameplay Preview](docs/gameplay.gif)
 
 ---
 
-## 📋 Summary
-
-This repository contains my implementation of the **Pong** assignment from CS50's Introduction to Game Development.
-
-The goal of the project was to recreate the classic Pong game using **LÖVE2D** with the features taught in the course.
-
----
-
-## 🎮 How to Run
+## 🚀 How to Run
 
 1. Install [LÖVE2D](https://love2d.org/).
 
@@ -45,11 +57,32 @@ The goal of the project was to recreate the classic Pong game using **LÖVE2D** 
 
 ---
 
-## 📝 Credits & License
+## ✨ Credits
 
 - Original skeleton code & assets: CS50's Introduction to Game Development (Harvard). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
+
+## 📄 License
+
+
 - This implementation: © 2025 Muhammad Huzaifa Karim. Licensed under the [MIT License](LICENSE).
 
 For more details, see [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ---
+
+## ✍️ Author
+
+**Muhammad Huzaifa Karim**
+[GitHub Profile](https://github.com/huzaifakarim1)
+
+---
+
+## 📬 Contact
+
+For ideas, feedback, or collaboration, feel free to reach out via [GitHub](https://github.com/huzaifakarim1).
+
+---
+
+© 2025 Muhammad Huzaifa Karim. All rights reserved.
