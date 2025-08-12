@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# LÖVE2D packaged games
+*.love
+
+# Temporary
+*.tmp
