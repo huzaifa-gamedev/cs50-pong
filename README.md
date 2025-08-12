@@ -5,7 +5,7 @@
 **Engine/Language:** LÖVE2D (Lua)
 **Author:** Muhammad Huzaifa Karim ([huzaifakarim1](https://github.com/huzaifakarim1))
 
-![Gameplay Screenshot](docs/gameplay.gif)
+![Gameplay Preview](docs/gameplay.gif)
 
 ---
 
